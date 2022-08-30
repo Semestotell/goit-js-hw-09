@@ -16,3 +16,11 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+.button__stop {
+  margin-left: 10px;
+}
